@@ -1,0 +1,5 @@
+.full-container {
+    border: solid black 1pt;
+    width: 100vw;
+    box-sizing: border-box; 
+}

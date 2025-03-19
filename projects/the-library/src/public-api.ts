@@ -2,5 +2,5 @@
  * Public API Surface of the-library
  */
 
-export * from './lib/the-library.service';
-export * from './lib/the-library.component';
+export * from './background-changer/background-changer.service';
+export * from './background-changer/background-changer.component';
