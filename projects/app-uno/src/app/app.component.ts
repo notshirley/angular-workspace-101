@@ -1,6 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import { BackgroundChangerService } from '../../../the-library/src/public-api';
-import { BackgroundChangerComponent } from '../../../the-library/src/public-api';
+import { Component } from '@angular/core';
+import { BackgroundChangerComponent, BackgroundChangerService } from 'the-library';
 
 @Component({
   selector: 'app-root',
