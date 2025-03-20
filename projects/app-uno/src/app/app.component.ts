@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-import { BackgroundChangerComponent } from "../../../the-library/src/background-changer/background-changer.component";
 import { BackgroundChangerService } from '../../../the-library/src/public-api';
+import { BackgroundChangerComponent } from '../../../the-library/src/public-api';
 
 @Component({
   selector: 'app-root',
